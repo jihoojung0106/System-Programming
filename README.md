@@ -1,1 +1,1 @@
-# system_programmin
+# SNU System Programming (22-2)
